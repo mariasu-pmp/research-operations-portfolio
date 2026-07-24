@@ -48,7 +48,7 @@ research-operations-portfolio/
 
 - Responsible Scaling Policy
 - Cross-Document Consistency Review
-- Additional publicly available AI governance, research, and technical documentation
+- Additional AI governance, research, and technical documentation
   
 ## Disclaimer
 
