@@ -6,11 +6,11 @@ A portfolio demonstrating structured Research Operations methodologies through t
 
 This portfolio demonstrates my approach to Research Operations through structured reviews of  technical and governance documentation. The work focuses on documentation quality, evidence traceability, editorial analysis, and process improvement using a consistent review methodology.
 
-This portfolio demonstrates transferable skills applicable to Research Operations, Technical Program Management, AI Governance, and Research Documentation.
+This portfolio demonstrates transferable skills applicable to Research Operations, Technical Program Management, AI Governance, and Scientific & Technical Documentation.
 
 ## Core Competencies Demonstrated
 
-- Scientific & Technical Documentation
+- Research Documentation
 - Technical Documentation Review
 - Evidence Traceability
 - Editorial Analysis
