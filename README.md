@@ -1,16 +1,16 @@
 # # Research Operations Portfolio
 
-A portfolio demonstrating structured Research Operations methodologies through technical documentation review, evidence traceability, editorial analysis, and process improvement using publicly available AI governance and research documents.
+A portfolio demonstrating structured Research Operations methodologies through technical documentation review, evidence traceability, editorial analysis, and process improvement using AI governance and research documents.
 
 ## About
 
-This portfolio demonstrates my approach to Research Operations through structured reviews of publicly available technical and governance documentation. The work focuses on documentation quality, evidence traceability, editorial analysis, and process improvement using a consistent review methodology.
+This portfolio demonstrates my approach to Research Operations through structured reviews of  technical and governance documentation. The work focuses on documentation quality, evidence traceability, editorial analysis, and process improvement using a consistent review methodology.
 
 This portfolio demonstrates transferable skills applicable to Research Operations, Technical Program Management, AI Governance, and Research Documentation.
 
 ## Core Competencies Demonstrated
 
-- Research Operations
+- Scientific & Technical Documentation
 - Technical Documentation Review
 - Evidence Traceability
 - Editorial Analysis
