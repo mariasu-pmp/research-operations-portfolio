@@ -30,7 +30,6 @@ Each documentation review follows a consistent framework:
 
 ## Portfolio Structure
 
-```text
 research-operations-portfolio/
 
 ├── README.md
