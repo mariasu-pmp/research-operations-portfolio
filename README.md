@@ -1,6 +1,6 @@
 # Research Operations Portfolio
 
-A professional portfolio demonstrating structured analytical work in Research Operations, technical documentation review, evidence traceability, editorial analysis, implementation strategy, and economic evaluation using publicly available AI governance and healthcare research documents.
+A professional portfolio demonstrating structured analytical work in Research Operations through technical documentation review, evidence traceability, editorial analysis, implementation strategy, and economic evaluation using publicly available AI governance and healthcare research documents.
 
 ---
 
