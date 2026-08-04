@@ -1,51 +1,81 @@
-# # Research Operations Portfolio
+# Research Operations Portfolio
 
-A portfolio demonstrating structured Research Operations methodologies through technical documentation review, evidence traceability, editorial analysis, and process improvement using AI governance and research documents.
-
-## About
-
-This portfolio demonstrates my approach to Research Operations through structured reviews of  technical and governance documentation. The work focuses on documentation quality, evidence traceability, editorial analysis, and process improvement using a consistent review methodology.
-
-This portfolio demonstrates transferable skills applicable to Research Operations, Technical Program Management, AI Governance, and Scientific & Technical Documentation.
+A professional portfolio demonstrating structured analytical work in Research Operations, technical documentation review, evidence traceability, editorial analysis, implementation strategy, and economic evaluation using publicly available AI governance and healthcare research documents.
 
 ---
 
-## Portfolio Artifacts
+# About
 
-### Artifact 1 — Technical Documentation Review
+This portfolio demonstrates my approach to Research Operations through structured analysis of technical documentation, governance frameworks, implementation strategy, and organizational decision-making.
 
-[Claude Sonnet 4 System Card Review](artifacts/01-claude-sonnet-4-documentation-review.md)
+The artifacts illustrate transferable skills relevant to:
 
-A structured documentation review demonstrating:
+- Research Operations
+- Technical Program Management
+- AI Governance
+- Technical Documentation
+- Economic Analysis
+- Scientific & Technical Communication
 
-- Documentation quality assessment
+---
+
+# Portfolio Artifacts
+
+## Artifact 1 — Technical Documentation Review
+
+### Claude Sonnet 4 System Card Review
+
+A structured documentation review from a Research Operations perspective evaluating:
+
+- Documentation quality
 - Evidence traceability
-- Editorial analysis
-- AI governance documentation review
+- Editorial consistency
+- AI governance documentation
 - Research Operations methodology
 
----
+📁 Location
 
-### Artifact 2 — Economic Analysis
-
-[Economic Analysis of Medication Adherence Improvement in Diabetes Care](artifacts/02-economic-analysis/README.md)
-
-A professional economic analysis evaluating implementation planning, financial modeling, organizational impact, and evidence-based decision-making for improving medication adherence among patients with Type 2 diabetes.
-
-This artifact originated as graduate coursework in healthcare economics and was substantially revised for publication as part of this professional portfolio.
+`artifacts/01-claude-sonnet-4-documentation-review.md`
 
 ---
 
-## Core Competencies Demonstrated
+## Artifact 2 — Economic Analysis
 
-- Research Documentation
+### Economic Analysis of Medication Adherence Improvement in Diabetes Care
+
+A professional economic analysis evaluating:
+
+- Implementation strategy
+- Financial modeling
+- Return on investment (ROI)
+- Organizational impact
+- Evidence-based decision-making
+
+This artifact originated as graduate coursework in healthcare economics and was substantially revised for publication as a professional portfolio artifact.
+
+📁 Location
+
+`artifacts/02-economic-analysis`
+
+---
+
+# Core Competencies Demonstrated
+
+- Research Operations
 - Technical Documentation Review
 - Evidence Traceability
 - Editorial Analysis
+- Economic Analysis
+- Implementation Strategy
+- Financial Modeling
+- Organizational Decision-Making
 - Project & Program Coordination
 - AI Governance Documentation
+- Research Communication
 
-## Review Methodology
+---
+
+# Review Methodology
 
 Each documentation review follows a consistent framework:
 
@@ -56,7 +86,9 @@ Each documentation review follows a consistent framework:
 5. Recommend documentation improvements.
 6. Summarize Research Operations impact.
 
-## Portfolio Structure
+---
+
+# Repository Structure
 
 ```text
 research-operations-portfolio/
@@ -64,26 +96,44 @@ research-operations-portfolio/
 ├── README.md
 ├── docs/
 ├── artifacts/
-└── references/
+│   ├── 01-claude-sonnet-4-documentation-review.md
+│   └── 02-economic-analysis/
+├── references/
+└── LICENSE
 ```
-## Published Reviews
 
-| Review | Status |
-|--------|--------|
-| Claude Sonnet 4 System Card – Section 1.2 Release Decision Process | ✅ Published 
+---
 
-## Planned Reviews
+# Published Artifacts
 
-- Responsible Scaling Policy
+| Artifact | Status |
+|-----------|:------:|
+| Claude Sonnet 4 System Card Review | ✅ Published |
+| Economic Analysis of Medication Adherence Improvement in Diabetes Care | ✅ Published |
+
+---
+
+# Planned Work
+
+- Responsible Scaling Policy Review
 - Cross-Document Consistency Review
-- Additional AI governance, research, and technical documentation
-  
-## Disclaimer
+- Quality Improvement Portfolio (Future)
+- Additional AI governance, research, and technical documentation reviews
 
-This portfolio evaluates documentation quality rather than AI model performance. All reviews are based on publicly available documents and are intended to demonstrate Research Operations methodologies, documentation analysis, and evidence-based editorial review.
+---
 
-## Contact
+# Disclaimer
 
-LinkedIn: https://www.linkedin.com/in/maria-su-pmp
+This portfolio evaluates documentation quality, implementation strategy, and organizational decision-making rather than AI model performance. All reviews and analyses are based on publicly available materials and are intended to demonstrate Research Operations methodologies, evidence-based analysis, and professional communication.
 
-GitHub Profile: https://github.com/mariasu-pmp
+---
+
+# Contact
+
+**LinkedIn**
+
+https://www.linkedin.com/in/maria-su-pmp
+
+**GitHub**
+
+https://github.com/mariasu-pmp
