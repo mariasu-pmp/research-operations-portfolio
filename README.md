@@ -14,7 +14,7 @@ This portfolio demonstrates transferable skills applicable to Research Operation
 
 ### Artifact 1 — Technical Documentation Review
 
-**Claude Sonnet 4 System Card Review**
+[Claude Sonnet 4 System Card Review](artifacts/01-claude-sonnet-4-documentation-review.md)
 
 A structured documentation review demonstrating:
 
@@ -28,22 +28,14 @@ A structured documentation review demonstrating:
 
 ### Artifact 2 — Economic Analysis
 
-**Economic Analysis of Medication Adherence Improvement in Diabetes Care**
+[Economic Analysis of Medication Adherence Improvement in Diabetes Care](artifacts/02-economic-analysis/README.md)
 
 A professional economic analysis evaluating implementation planning, financial modeling, organizational impact, and evidence-based decision-making for improving medication adherence among patients with Type 2 diabetes.
-
-**Focus Areas**
-
-- Economic Analysis
-- Implementation Strategy
-- Financial Modeling
-- Return on Investment (ROI)
-- Organizational Impact
-- Healthcare Operations
 
 This artifact originated as graduate coursework in healthcare economics and was substantially revised for publication as part of this professional portfolio.
 
 ---
+
 ## Core Competencies Demonstrated
 
 - Research Documentation
