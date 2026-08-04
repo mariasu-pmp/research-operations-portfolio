@@ -8,6 +8,42 @@ This portfolio demonstrates my approach to Research Operations through structure
 
 This portfolio demonstrates transferable skills applicable to Research Operations, Technical Program Management, AI Governance, and Scientific & Technical Documentation.
 
+---
+
+## Portfolio Artifacts
+
+### Artifact 1 — Technical Documentation Review
+
+**Claude Sonnet 4 System Card Review**
+
+A structured documentation review demonstrating:
+
+- Documentation quality assessment
+- Evidence traceability
+- Editorial analysis
+- AI governance documentation review
+- Research Operations methodology
+
+---
+
+### Artifact 2 — Economic Analysis
+
+**Economic Analysis of Medication Adherence Improvement in Diabetes Care**
+
+A professional economic analysis evaluating implementation planning, financial modeling, organizational impact, and evidence-based decision-making for improving medication adherence among patients with Type 2 diabetes.
+
+**Focus Areas**
+
+- Economic Analysis
+- Implementation Strategy
+- Financial Modeling
+- Return on Investment (ROI)
+- Organizational Impact
+- Healthcare Operations
+
+This artifact originated as graduate coursework in healthcare economics and was substantially revised for publication as part of this professional portfolio.
+
+---
 ## Core Competencies Demonstrated
 
 - Research Documentation
