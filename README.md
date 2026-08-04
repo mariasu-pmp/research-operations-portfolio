@@ -61,17 +61,17 @@ This artifact originated as graduate coursework in healthcare economics and was 
 
 # Core Competencies Demonstrated
 
-- Research Operations
-- Technical Documentation Review
-- Evidence Traceability
-- Editorial Analysis
-- Economic Analysis
-- Implementation Strategy
-- Financial Modeling
-- Organizational Decision-Making
-- Project & Program Coordination
-- AI Governance Documentation
-- Research Communication
+Research Operations
+Economic Analysis
+Technical Documentation Review
+Evidence Traceability
+Editorial Analysis
+Implementation Strategy
+Financial Modeling
+Organizational Decision-Making
+Project & Program Coordination
+Research Communication
+AI Governance Documentation
 
 ---
 
@@ -108,8 +108,8 @@ research-operations-portfolio/
 
 | Artifact | Status |
 |-----------|:------:|
-| Claude Sonnet 4 System Card Review | ✅ Published |
-| Economic Analysis of Medication Adherence Improvement in Diabetes Care | ✅ Published |
+| Technical Documentation Review — Claude Sonnet 4 System Card | ✅ Published |
+| Economic Analysis — Medication Adherence Improvement in Diabetes Care| ✅ Published |
 
 ---
 
@@ -117,7 +117,7 @@ research-operations-portfolio/
 
 - Responsible Scaling Policy Review
 - Cross-Document Consistency Review
-- Quality Improvement Portfolio (Future)
+- Quality Improvement Portfolio 
 - Additional AI governance, research, and technical documentation reviews
 
 ---
