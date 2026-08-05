@@ -53,7 +53,7 @@ A professional economic analysis evaluating:
 
 This artifact originated as graduate coursework in healthcare economics and was substantially revised for publication as a professional portfolio artifact.
 
-**Open Artifact 2**
+📄 **Open Artifact 2**
 
 [Economic Analysis of Medication Adherence Improvement in Diabetes Care](artifacts/02-economic-analysis/)
 ---
