@@ -22,6 +22,9 @@ Unlike a traditional academic paper, this version has been substantially revised
 
 [economic-analysis-medication-adherence.pdf](economic-analysis-medication-adherence.pdf)
 
+---
+
+## Skills Demonstrated
 ## Skills Demonstrated
 
 - Economic Analysis
