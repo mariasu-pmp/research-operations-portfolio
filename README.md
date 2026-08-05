@@ -33,9 +33,9 @@ A structured documentation review from a Research Operations perspective evaluat
 - AI governance documentation
 - Research Operations methodology
 
-📁 Location
+📄 **Open Artifact 1**
 
-`artifacts/01-claude-sonnet-4-documentation-review.md`
+[Claude Sonnet 4 System Card Technical Documentation Review](artifacts/01-claude-sonnet-4-documentation-review.md)
 
 ---
 
@@ -53,10 +53,9 @@ A professional economic analysis evaluating:
 
 This artifact originated as graduate coursework in healthcare economics and was substantially revised for publication as a professional portfolio artifact.
 
-📁 Location
+📄 **Open Artifact 2**
 
-`artifacts/02-economic-analysis`
-
+[Economic Analysis of Medication Adherence Improvement in Diabetes Care](artifacts/02-economic-analysis/)
 ---
 
 # Core Competencies Demonstrated
