@@ -56,6 +56,7 @@ This artifact originated as graduate coursework in healthcare economics and was 
 📄 **Open Artifact 2**
 
 [Economic Analysis of Medication Adherence Improvement in Diabetes Care](artifacts/02-economic-analysis/)
+
 ---
 
 # Core Competencies Demonstrated
