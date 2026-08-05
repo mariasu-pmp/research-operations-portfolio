@@ -13,8 +13,9 @@ The analysis examines:
 - scalability
 - evidence-based decision-making
 
-Unlike a traditional academic paper, this version has been substantially revised for publication as part of my Research Operations Portfolio and is intended for a professional audience.
+Originally developed as graduate coursework in healthcare economics, this analysis was substantially revised for publication as part of my Research Operations Portfolio and is intended for a professional audience.
 
+---
 
 ## Download
 
@@ -24,7 +25,6 @@ Unlike a traditional academic paper, this version has been substantially revised
 
 ---
 
-## Skills Demonstrated
 ## Skills Demonstrated
 
 - Economic Analysis
