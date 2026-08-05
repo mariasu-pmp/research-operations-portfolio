@@ -6,12 +6,12 @@ This portfolio artifact presents a structured economic analysis evaluating imple
 
 The analysis examines:
 
-- Implementation planning
-- Financial modeling
-- Return on investment (ROI)
-- Organizational impact
+- Implementation Planning
+- Financial Modeling
+- Return on Investment (ROI)
+- Organizational Impact
 - Scalability
-- Evidence-based decision-making
+- Evidence-Based Decision-Making
 
 Originally developed as graduate coursework in healthcare economics, this analysis was substantially revised for publication as part of my Research Operations Portfolio and is intended for a professional audience.
 
