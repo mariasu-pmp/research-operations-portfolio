@@ -93,13 +93,13 @@ Each documentation review follows a consistent framework:
 ```text
 research-operations-portfolio/
 
+research-operations-portfolio/
+
 ├── README.md
 ├── docs/
-├── artifacts/
-│   ├── 01-claude-sonnet-4-documentation-review.md
-│   └── 02-economic-analysis/
-├── references/
-└── LICENSE
+└── artifacts/
+    ├── 01-claude-sonnet-4-documentation-review.md
+    └── 02-economic-analysis/
 ```
 
 ---
