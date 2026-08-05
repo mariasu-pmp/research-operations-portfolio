@@ -15,9 +15,12 @@ The analysis examines:
 
 Unlike a traditional academic paper, this version has been substantially revised for publication as part of my Research Operations Portfolio and is intended for a professional audience.
 
-## Files
 
-- Economic Analysis of Medication Adherence Improvement in Diabetes Care (PDF)
+## Download
+
+📄 **Full Report (PDF)**
+
+[economic-analysis-medication-adherence.pdf](economic-analysis-medication-adherence.pdf)
 
 ## Skills Demonstrated
 
